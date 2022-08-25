@@ -11,7 +11,7 @@ Here are some of the results found
 ![1 3 3 Chart](https://user-images.githubusercontent.com/111034667/186289756-b44520a8-1d6c-4393-a3cf-bdb1e94924a6.png)
 
 **Suggestions:**
-The field that was the most succesful was plays, specifally the category of plays.
+The field that was the most succesful was Theater, specifally the category of plays.
 
 The most succesful country was the US
 
