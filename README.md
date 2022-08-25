@@ -1,7 +1,14 @@
-### **An Analysis of Kickstarter Campaigns**
-*Performing analysis on Kickstarter data to undercover trends*
+### **Kickstarting with Excel:** ***An Analysis of Kickstarter Campaigns.***
 
-<sub>In this Project, we analysed the data of a kickstarter campain provided by Louise to see trends in  different industries as well as different countries.<sub>
+## Overview of Project:
+
+<sub> In this project, we analyse the data provided from kickstarter campaigns provided by Louise to discover if there are trends in each industry as well as narrow down which campaings have been the most successful and what came in to play to help its success. 
+
+## Purpose:
+
+<sub> The purpose of this project is to find trends in each industry, focusing on the Theater industry specificallly,as well as narrow down which campaigns have been the most successful based on the countries, launch dates, the estimated goal and the pledged quantity obtained and launch date .<sub>
+
+
 
 Here are some of the results found
 
