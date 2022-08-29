@@ -59,7 +59,7 @@ With the analysis of outcomes based on goals, we can observe that there are a hi
     
 This data set is limited in terms of the years the data was collected from. Although we have a good range of years from 2009 to 2017, it might not be as helpful to Louise since the pandemic has impacted the entretainment industry the most. To get a more accurate result, it would be ideal to obtain data from the most recent years, possibly up to this year if data is avaliable and repeat the analysis to see if the outcomes found above are still relatively equal.
     
-Although the analysis of the outcomes based on goals is useful to see which play reached its goal, it does not provide enough inside since there are multiple factors that come into play. For example, the amount of time the play stayed open for, the pledged vs goal amount, the average donation given, as well as the location of the play. Therefore, we would have to do additional analysis  with a combination of these factors which ones will contribute the most help to Louise's play success.
+Although the analysis of the outcomes based on goals is useful to see which play reached its goal, it does not provide enough inside since there are multiple factors that come into play. For example, the amount of time the play stayed open for, the pledged vs goal amount, the average donation given, as well as the location of the play. Therefore, we would have to do additional analysis  with a combination of these factors which ones will contribute the most help to Louise's play success, such as a graph of the pledged vs goal amount.
 
 
 
