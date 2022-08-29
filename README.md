@@ -43,7 +43,7 @@ In this project, the difficulties I encountered were making sure the countifs eq
 
 ## Results
 
-After analyzing the data and creating Pivot Tables as well as charts, from the analysis of outcomes based on Launch date,we can see that Lousie's play will be the most successful if it launches in the months of May, June, and July and the amount of failed and successful plays are almost equal in the month of December.
+After analyzing the data and creating Pivot Tables as well as charts, from the analysis of outcomes based on Launch date,we can see that Lousie's play will be the most successful if it launches in the months of May, June, and July, and the amount of failed and successful plays are almost equal in the month of December.
  
 The following charts exhibit the outcomes that the field that was the most succesful was theater, and it was most succesful in the United States: 
   
@@ -55,7 +55,7 @@ The following charts exhibit the outcomes that the field that was the most succe
     
    <sub> United States Outcomes <sub>
 
-With the analysis of outcomes based on goals, we can observe that there are a higher number of failed plays than successful. The goal ranges that were the most succesful were $0-$4,999 with a 74.5% of success and $35,00-$44,999 with a 67% of success.
+With the analysis of outcomes based on goals, we can observe that there are a higher number of failed plays than successful. The goal ranges that were the most succesful were $0-$4,999 with a 74.5% of success and $35,00-$44,999 with a 67% of success. Hence, Louise could have a higher chance of success in her play if she stays within these ranges.
     
 This data set is limited in terms of the years the data was collected from. Although we have a good range of years from 2009 to 2017, it might not be as helpful to Louise since the pandemic has impacted the entretainment industry the most. To get a more accurate result, it would be ideal to obtain data from the most recent years, possibly up to this year if data is avaliable and repeat the analysis to see if the outcomes found above are still relatively equal.
     
