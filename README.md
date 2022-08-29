@@ -39,11 +39,13 @@ When the outcomes are analyzed based on goals, still on the industry of theater 
   
 ### Challenges and Difficulties Encountered
   
-In this project, the difficulties I encountered were making sure the countifs equations were recollecting the correct amount of succesful, failed and canceled plays. For a while, I kept recieveing $0 for the ranges $25,0000 and up because of a mispelled word. I was able to notice this error by filtering the Kickstarter data to the parameters I was using in the formula and comparing both numbers to ensure the numbers matched. In the end, being able to filter the original data to the parameters used in the countifs equation was the key to ensuring my calculations were correct, ensuring my graph was displaying the correct percentages for each category.
+In this project, the difficulties I encountered were making sure the countifs equations were recollecting the correct amount of succesful, failed and canceled plays. For a while, I kept recieveing $0 for the ranges $25,000 and up because of a mispelled word. I was able to notice this error by filtering the Kickstarter data to the parameters I was using in the formula and comparing both numbers to ensure the numbers matched. In the end, being able to filter the original data to the parameters used in the countifs equation was the key to ensuring my calculations were correct, ensuring my graph was displaying the correct percentages for each category.
 
 ## Results
 
-Aafter analyzing the data and creating Pivot Tables as well as charts, we can see that Lousie's play will be the most successful if it launches in the month of May.  The following charts exhibit the outcomes that the field that was the most succesful was theater, and it was most succesful in the United States: 
+After analyzing the data and creating Pivot Tables as well as charts, from the analysis of outcomes based on Launch date,we can see that Lousie's play will be the most successful if it launches in the months of May, June, and July and the amount of failed and successful plays are almost equal in the month of December.
+ 
+The following charts exhibit the outcomes that the field that was the most succesful was theater, and it was most succesful in the United States: 
   
  ![Parent_Category_Outcome_All](https://user-images.githubusercontent.com/111034667/186770677-7577e330-d242-4b0b-a58c-0f8afacb5792.png)
   
@@ -53,7 +55,11 @@ Aafter analyzing the data and creating Pivot Tables as well as charts, we can se
     
    <sub> United States Outcomes <sub>
 
-Although the analysis of the outcomes based on goals is useful to see which play reached its goal, it does not provide enough inside since there are multiple factors that come into play. For example, the amount of time the play stayed open for, the pledged vs goal amount, the average donation given, as well as the location of the play. Therefore, we would have to do additional analysis considering these factors to see what factors will contribute the most help to Louise's play success.
+With the analysis of outcomes based on goals, we can observe that there are a higher number of failed plays than successful. The goal ranges that were the most succesful were $0-$4,999 with a 74.5% of success and $35,00-$44,999 with a 67% of success.
+    
+This data set is limited in terms of the years the data was collected from. Although we have a good range of years from 2009 to 2017, it might not be as helpful to Louise since the pandemic has impacted the entretainment industry the most. To get a more accurate result, it would be ideal to obtain data from the most recent years, possibly up to this year if data is avaliable and repeat the analysis to see if the outcomes found above are still relatively equal.
+    
+Although the analysis of the outcomes based on goals is useful to see which play reached its goal, it does not provide enough inside since there are multiple factors that come into play. For example, the amount of time the play stayed open for, the pledged vs goal amount, the average donation given, as well as the location of the play. Therefore, we would have to do additional analysis of these factors to see   which ones will contribute the most help to Louise's play success.
 
 
 
