@@ -6,7 +6,7 @@
 
 ### Purpose
 
-The purpose of this project is to find trends in each industry, focusing on the Theater industry specificallly,as well as narrow down which campaigns have been the most successful based on the countries, launch dates, the estimated goal and the pledged quantity obtained and launch date.
+The purpose of this project is to find trends in each industry, focusing on the Theater industry specificallly,as well as narrow down which campaigns have been the most successful based on the countries, launch dates, the estimated goal and the pledged quantity obtained, and launch date.
 
 ## Analysis and Challenges
 
@@ -53,7 +53,7 @@ Aafter analyzing the data and creating Pivot Tables as well as charts, we can se
     
    <sub> United States Outcomes <sub>
 
-Although the analysis of the outcomes based on goals is useful to see which play reached its goal, it does not provide enough inside since there are multiple factors that come into play. For example, the amount of time the play stayed open for, the pledged vs goal amount, the average donation given, as well as the location of the play. Therefore, we would have to do analysis considering these factors to see what factors will contribute to  help Louise's play sucess's.
+Although the analysis of the outcomes based on goals is useful to see which play reached its goal, it does not provide enough inside since there are multiple factors that come into play. For example, the amount of time the play stayed open for, the pledged vs goal amount, the average donation given, as well as the location of the play. Therefore, we would have to do additional analysis considering these factors to see what factors will contribute the most help to Louise's play success.
 
 
 
